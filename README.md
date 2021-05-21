@@ -7,4 +7,4 @@ También se puede encontrar en:
 - [gdrive](https://drive.google.com/file/d/11clN5DNAX_4lLSuDO6OS19YLgRy3VWVf/view?usp=sharing)
 
 
-* Parece que el link a gdrive te manda a pedir permisos, las otras tres opciones funcionan perfectamente.
+> Parece que el link a gdrive te manda a pedir permisos, las otras tres opciones funcionan perfectamente.
