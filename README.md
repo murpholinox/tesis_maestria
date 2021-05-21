@@ -5,3 +5,6 @@ También se puede encontrar en:
 - [pcloud](https://u.pcloud.link/publink/show?code=XZiHeUkZpvUVMjLDnEf2lM0Xpup8IFaf0wGV)
 - [dropbox](https://www.dropbox.com/s/7d44vaaauomjmy0/0790696.pdf?dl=0)
 - [gdrive](https://drive.google.com/file/d/11clN5DNAX_4lLSuDO6OS19YLgRy3VWVf/view?usp=sharing)
+
+
+* Parece que el link a gdrive te manda a pedir permisos, las otras tres opciones funcionan perfectamente.
